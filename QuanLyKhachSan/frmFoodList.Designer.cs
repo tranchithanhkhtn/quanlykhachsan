@@ -1,5 +1,6 @@
 ﻿namespace QuanLyKhachSan
 {
+     
     partial class frmFoodList
     {
         /// <summary>
