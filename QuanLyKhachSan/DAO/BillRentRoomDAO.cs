@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyKhachSan.DAO
 {
+    //
     public class BillRentRoomDAO
     {
         private static BillRentRoomDAO instance;
