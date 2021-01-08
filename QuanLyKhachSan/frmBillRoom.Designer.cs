@@ -2,6 +2,7 @@
 {
     partial class frmBillRoom
     {
+        ///
         /// <summary>
         /// Required designer variable.
         /// </summary>
