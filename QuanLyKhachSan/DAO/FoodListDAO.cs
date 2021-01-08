@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyKhachSan.DAO
 {
+    //
     public class FoodListDAO
     {
         private static FoodListDAO instance;
